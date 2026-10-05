@@ -45,13 +45,32 @@ Solar energy analytics platform for tracking and optimizing energy production, b
 
 ## 🧰 Technical Skills
 
-| | |
-| :--- | :--- |
-| **Programming & Data** | Python · MATLAB · SQL · NumPy · Pandas · SciPy |
-| **Machine Learning** | PyTorch · TensorFlow |
-| **Materials & Characterization** | SEM · X-Ray Diffraction · Thermal Analysis · Optical Microscopy |
-| **Processing & Manufacturing** | Photolithography · Overlay Metrology · Pyrolysis · Statistical Process Control |
-| **Development Tools** | Git · Docker · Linux |
+### Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-E16737?style=for-the-badge)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
+
+### Scientific Computing & Machine Learning
+
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+
+### Development Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+### Materials & Manufacturing
+
+**Characterization:** SEM · X-Ray Diffraction · Thermal Analysis · Optical Microscopy  
+**Processing:** Photolithography · Overlay Metrology · Pyrolysis · Statistical Process Control
 
 ## ✍️ Writing
 
